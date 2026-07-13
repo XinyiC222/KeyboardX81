@@ -37,7 +37,8 @@ A custom 75% PCB keyboard with a rotary encoder and 81 keys.
 2. Download the 3D view of your keyboard from KiCad and upload it (for reference!)
 3. Then make the case around it any way you like. If you are 3D printing remember that prints can shrink so you need to **account for tolerances especially holes**
 4. you can add a plate and any type of mounting you want
-5. For the plate if you are 3D printing with PLA, having it at 1.5mm thick is usually not strong enough. Set it to **3mm** but leave the area around the stabilizers to be 1.5mm
+5. If you are adding a plate, the plate generater I included above might be helpful
+6. For the plate if you are 3D printing with PLA, having it at 1.5mm thick is usually not strong enough. Set it to **3mm** but leave the area around the stabilizers to be 1.5mm
 
 <h3>That's pretty much a good summary of how to build your own keyboard! Thanks for reading it and I hope you learned something new. This is my first big project and definitely my first keyboard build so I don't expect everything to be correct. So if you are building this based off of mine, it's not guaranteed to work!!</h3>
 
