@@ -1,4 +1,4 @@
-# KeyboardX81
+# Keyboard81X
 
 A custom 75% PCB keyboard with a rotary encoder and 81 keys.
 
